@@ -45,11 +45,9 @@ Jean de Dieu</a></h1>
     <a href="https://github.com/johnOfGod33"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
 <a href="https://github.com/johnOfGodd33"><img alt="Npm" src="https://img.shields.io/badge/Npm-red?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a href="https://github.com/johnOfGod33"><img alt="expressjs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-    <a href="https://github.com/johnOfGod33">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-    </a>
-    <a href="https://github.com/johnOfGod33">
-    <img alt="Sass" src="https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=Tailwindcss&logoColor=blue"/>
+    <a href="https://github.com/johnOfGod33"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>
+    <a href="https://github.com/johnOfGod33"><img alt="Sass" src="https://img.shields.io/badge/Tailwindcss-black?style=for-the-badge&logo=Tailwindcss&logoColor=blue"/></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
