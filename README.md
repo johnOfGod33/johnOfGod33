@@ -27,7 +27,7 @@ Jean de Dieu</a></h1>
 <p align="center">
 	<a href="mailto:jeandedieusessou@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jean-de-dieu-sessou-260897292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  	<a href="https://x.com/RYUUSAN5742"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=twitter" alt="twitter"/></a>
+  	<a href="https://x.com/RYUUSAN5742"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=x" alt="twitter"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -42,12 +42,9 @@ Jean de Dieu</a></h1>
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/johnOfGod33"><img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue
-    "></a>
-    <a href="https://github.com/johnOfGod33"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white
-    "></a>
-    <a href="https://github.com/johnOfGod33"><img alt="Expressjs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
-    "></a>
+    <a href="https://github.com/johnOfGod33"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
+<a href="https://github.com/johnOfGodd33"><img alt="Npm" src="https://img.shields.io/badge/Npm-red?style=for-the-badge&logo=npm&logoColor=white"/></a>
+<a href="https://github.com/johnOfGod33"><img alt="expressjs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
     <a href="https://github.com/johnOfGod33">
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     </a>
