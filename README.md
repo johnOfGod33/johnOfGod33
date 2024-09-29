@@ -2,10 +2,6 @@
 Jean de Dieu</a></h1>
 <h3 align="center">A passionate Full Stack developer from Togo</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge
   " />
