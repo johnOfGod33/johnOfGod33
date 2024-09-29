@@ -12,7 +12,7 @@ Jean de Dieu</a></h1>
 <pre>
 💻 I am a self taught Full Stack Developer
 📚 I have a Bachelors in Mechanical Engineering from Polytechnic School of Lomé
-📝 I'm getting write articles on <a href="https://dev.to/johnofgod33">https://dev.to/johnofgod33</a> 
+📝 I'm getting started write articles on <a href="https://dev.to/johnofgod33">https://dev.to/johnofgod33</a> 
 🔭 I’m currently working on my side projects
 🌱 I’m currently learning Typescript and Next js
 🌟 Main languages: Python, JavaScript
