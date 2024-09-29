@@ -3,7 +3,7 @@ Jean de Dieu</a></h1>
 <h3 align="center">A passionate Full Stack developer from Togo</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
  <p align="left">
@@ -31,8 +31,7 @@ Jean de Dieu</a></h1>
 <p align="center">
 	<a href="mailto:jeandedieusessou@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jean-de-dieu-sessou-260897292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/RYUUSAN5742"><img src="
-    https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/></a>
+  	<a href="https://x.com/RYUUSAN5742"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=twitter" alt="twitter"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
