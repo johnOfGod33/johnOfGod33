@@ -18,14 +18,14 @@ Jean de Dieu</a></h1>
 🌟 Main languages: Python, JavaScript
 💬 Ask me about <strong>Nodejs</strong>
 🤝 I’m available for freelancing.
-📫 How to reach me <strong>jeandedieusessou@gmail.com</strong>
+📫 How to reach me <strong>sessoujeandedieu@gmail.com</strong>
 🎮 Hobbies: Mangas, Reading, Anime, Games
 </pre>
 
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="mailto:jeandedieusessou@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:sessoujeandedieu@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jean-de-dieu-sessou-260897292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   	<a href="https://x.com/RYUUSAN5742"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=x" alt="twitter"/></a>
 </p>
