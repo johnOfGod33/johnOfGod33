@@ -20,7 +20,7 @@ Jean de Dieu</a></h1>
 🤝 I’m available for freelancing.
 📫 How to reach me <strong>sessoujeandedieu@gmail.com</strong>
 🎮 Hobbies: Mangas, Reading, Anime, Games
-📄 <a href="./SESSOU Jean de Dieu - CV.pdf" target="_blank">My Resume</a>
+📄 <a href="https://drive.google.com/file/d/1f_BlZEG-yheUAmi4xLB_oncQrtxhlPhx/view?usp=sharing" target="_blank">My Resume</a>
 </pre>
 
 ## 🤝 Connect with me
