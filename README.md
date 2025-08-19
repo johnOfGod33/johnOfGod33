@@ -78,5 +78,4 @@ Jean de Dieu</a></h1>
 - [Why every developer should learn Docker and Containers ](https://dev.to/johnofgod33/why-every-developer-should-learn-docker-and-containers-341j)
 <!-- BLOG-POST-LIST:END -->
 
-### wakatime 
-[![wakatime](https://wakatime.com/badge/user/8ec9c790-6978-4916-8ee4-c02fbbde5b1d.svg)](https://wakatime.com/@8ec9c790-6978-4916-8ee4-c02fbbde5b1d)
+### ⏳ [![wakatime](https://wakatime.com/badge/user/8ec9c790-6978-4916-8ee4-c02fbbde5b1d.svg)](https://wakatime.com/@8ec9c790-6978-4916-8ee4-c02fbbde5b1d)
