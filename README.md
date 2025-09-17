@@ -79,3 +79,5 @@ Jean de Dieu</a></h1>
 <!-- BLOG-POST-LIST:END -->
 
 ### ⏳ [![wakatime](https://wakatime.com/badge/user/8ec9c790-6978-4916-8ee4-c02fbbde5b1d.svg)](https://wakatime.com/@8ec9c790-6978-4916-8ee4-c02fbbde5b1d)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JohnOfGod34/bbf20044-f548-472d-b795-44ba3e9ec0e4.png" /></a>
