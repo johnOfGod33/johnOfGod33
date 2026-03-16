@@ -23,7 +23,9 @@ Jean de Dieu</a></h1>
 ### 🎯 Thesis Defense Countdown
 
 <!-- COUNTDOWN:START -->
+
 ⏳ **183 days, 2 hours, 58 minutes** before my thesis defense! 🎓
+
 <!-- COUNTDOWN:END -->
 
 ## 🤝 Connect with me
@@ -79,13 +81,11 @@ Jean de Dieu</a></h1>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### ⏳ [![wakatime](https://wakatime.com/badge/user/8ec9c790-6978-4916-8ee4-c02fbbde5b1d.svg)](https://wakatime.com/@8ec9c790-6978-4916-8ee4-c02fbbde5b1d)
+
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Why every developer should learn Docker and Containers ](https://dev.to/johnofgod33/why-every-developer-should-learn-docker-and-containers-341j)
 <!-- BLOG-POST-LIST:END -->
-
-### ⏳ [![wakatime](https://wakatime.com/badge/user/8ec9c790-6978-4916-8ee4-c02fbbde5b1d.svg)](https://wakatime.com/@8ec9c790-6978-4916-8ee4-c02fbbde5b1d)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JohnOfGod34/bbf20044-f548-472d-b795-44ba3e9ec0e4.png" /></a>
