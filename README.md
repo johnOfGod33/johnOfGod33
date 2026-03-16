@@ -23,10 +23,7 @@ Jean de Dieu</a></h1>
 ### 🎯 Thesis Defense Countdown
 
 <!-- COUNTDOWN:START -->
-
-⏳ **Countdown loading...**
-💻 **Today's coding time loading...**
-
+⏳ **183 days, 2 hours, 58 minutes** before my thesis defense! 🎓
 <!-- COUNTDOWN:END -->
 
 ## 🤝 Connect with me
