@@ -1,0 +1,38 @@
+name: Update Thesis Countdown
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+
+jobs:
+  update-countdown:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update countdown and today's coding hours
+        env:
+          # ⚠️ CHANGE THIS to your actual thesis defense date & time
+          SOUTENANCE_DATE: "2026-09-15T14:00:00"
+        run: node countdown.js
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: jean de dieu
+          author_email: jeandedieusessou@gmail.com
+          force: false
+          signoff: false
+          message: "⏳ Update thesis defense countdown"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
