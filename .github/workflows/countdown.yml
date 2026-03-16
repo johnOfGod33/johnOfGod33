@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     schedule:
       # at 09:00 every day
-      - cron: "0 9 * * *"
+      - cron: "25 11 * * *"
   push:
     branches: [main]
 
