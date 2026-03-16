@@ -22,7 +22,6 @@ jobs:
 
       - name: Update countdown and today's coding hours
         env:
-          # ⚠️ CHANGE THIS to your actual thesis defense date & time
           SOUTENANCE_DATE: "2026-09-15T14:00:00"
         run: node countdown.js
 
