@@ -2,9 +2,9 @@ name: Update Thesis Countdown
 
 on:
   workflow_dispatch:
-    schedule:
-      # at 09:00 every day
-      - cron: "25 11 * * *"
+  schedule:
+    # at 09:00 every day
+    - cron: "0 9 * * *"
   push:
     branches: [main]
 
