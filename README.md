@@ -23,7 +23,7 @@ Jean de Dieu</a></h1>
 ### 🎯 Thesis Defense Countdown
 
 <!-- COUNTDOWN:START -->
-⏳ **78 days, 1 hour, 1 minute** before my thesis defense! 🎓
+⏳ **78 days, 54 minutes** before my thesis defense! 🎓
 <!-- COUNTDOWN:END -->
 
 ## 🤝 Connect with me
