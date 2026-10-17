@@ -8,6 +8,7 @@ Jean de Dieu</a></h1>
 </p>
 
 <pre>
+🌐 Portfolio: <a href="https://jeandedieu.dev">jeandedieu.dev</a>
 💻 Backend Engineer at <a href="https://github.com/johnOfGod33">Edomatch</a>
 📚 Master 2 in AI & Big Data
 📝 I write articles on <a href="https://dev.to/johnofgod33">dev.to</a>
@@ -29,6 +30,7 @@ Jean de Dieu</a></h1>
 ## 🤝 Connect with me
 
 <p align="center">
+	<a href="https://jeandedieu.dev"><img src="https://img.shields.io/badge/Portfolio-jeandedieu.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 	<a href="mailto:sessoujeandedieu@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jean-de-dieu-sessou-260897292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   	<a href="https://x.com/RYUUSAN5742"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=x" alt="twitter"/></a>
